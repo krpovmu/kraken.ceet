@@ -1,0 +1,8 @@
+
+Kraken.ceet 2017
+================
+Modulos:
+Auth
+CI
+Vagrant
+Cache
